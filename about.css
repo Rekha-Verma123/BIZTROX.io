@@ -180,7 +180,7 @@ header nav ul {
     height: 380px;
     width: 100%;
     position: relative;
-    background-image: url('../images/page-title.jpg');
+    background-image: url('.page-title.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -904,7 +904,7 @@ p {
     transition-duration: 0.5s;
 } */
 .award {
-    background-image: url('/PROJECT/images/cta.jpg');
+    background-image: url('/cta.jpg');
     background-size: cover;
     height: 240px;
     width: 100%;
