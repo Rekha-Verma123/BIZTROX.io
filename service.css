@@ -190,7 +190,7 @@ header nav ul {
     height: 380px;
     width: 100%;
     position: relative;
-    background-image: url('../images/page-title.jpg');
+    background-image: url('/images/page-title.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -355,7 +355,7 @@ header nav ul {
     background-color: #303032;
     height: 450px;
     width: 100%;
-    background-image: url('../images/clients-bg.jpg');
+    background-image: url('/images/clients-bg.jpg');
     background-size: 50%;
     background-position: center right;
     background-repeat: no-repeat;

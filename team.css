@@ -187,7 +187,7 @@ header nav ul {
     height: 380px;
     width: 100%;
     position: relative;
-    background-image: url('../images/page-title.jpg');
+    background-image: url('/images/page-title.jpg');
     background-size: cover;
     background-position: center;
 }
