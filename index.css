@@ -168,7 +168,7 @@ header nav ul {
 }
 
 .backimg {
-    background-image: url('/PROJECT/images/banner-1.jpg');
+    background-image: url('./banner-1.jpg');
     background-size: cover;
     height: 590px;
     position: relative;
@@ -429,7 +429,7 @@ header nav ul {
 }
 
 .who {
-    background-image: url('/PROJECT/images/about-bg.jpg');
+    background-image: url('./about-bg.jpg');
     background-size: cover;
     height: 600px;
     position: relative;
@@ -1013,7 +1013,7 @@ header nav ul {
 }
 
 .cta {
-    background-image: url('/PROJECT/images/cta.jpg');
+    background-image: url('./cta.jpg');
     background-size: cover;
     height: 180px;
     position: relative;
